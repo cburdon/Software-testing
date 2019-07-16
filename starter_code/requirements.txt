@@ -1,7 +1,0 @@
-Flask
-Flask-RESTful
-Flask-JWT
-Flask-SQLAlchemy
-
-psycopg2
-werkzeug
